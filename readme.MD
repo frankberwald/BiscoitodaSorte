@@ -1,0 +1,1 @@
+App simples de biscoito da sorte usando react-native com js.
